@@ -472,6 +472,7 @@
 
 ### Cache
 - [node-cache-framework](https://github.com/jinfang134/node-cache-framework) - A easy-to-use cache resolution for node application inspired by spring cache.
+- [node-cache](https://github.com/node-cache/node-cache) - A simple caching module that has set, get and delete methods and works a little bit like memcached.
 
 ### Number
 
