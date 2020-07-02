@@ -61,6 +61,7 @@
 	- [Real-time](#real-time)
 	- [Image](#image)
 	- [Text](#text)
+	- [Cache](#cache)
 	- [Number](#number)
 	- [Math](#math)
 	- [Date](#date)
@@ -468,6 +469,9 @@
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 - [i18next](https://github.com/i18next/i18next) - Internationalization framework.
 - [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+
+### Cache
+- [node-cache-framework](https://github.com/jinfang134/node-cache-framework) - A easy-to-use cache resolution for node application inspired by spring cache.
 
 ### Number
 
